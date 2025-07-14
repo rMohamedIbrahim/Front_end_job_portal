@@ -19,7 +19,7 @@ This website is fully responsive..
 Home Page
 
 
-<p align="center"><img src="public/home.png" width="500"/></p>
+<p align="center"><img src="public/home.png" width="1500"/></p>
 
 Jobs Page
 
